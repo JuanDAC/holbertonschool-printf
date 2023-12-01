@@ -1,3 +1,3 @@
 # holbertonschool-printf
-# holbertonschool-printf
-# holbertonschool-printf
+
+Project to clone function  of printf from standar library
